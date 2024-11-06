@@ -1,7 +1,7 @@
 # T119-Cloud-Xplorers: Cathay Travel AI
 
 基于 FastGPT+ 和 Docker 构建的智能旅行助手系统，为国泰航空提供智能化服务支持。
-
+产品网站基于低代码工具开发，https://6955243.wixsite.com/fly-young-plus
 ## 项目概述
 
 本项目是一个基于大语言模型的智能旅行助手系统，通过整合 ChatGLM 和 Azure 服务，为用户提供智能化的旅行相关服务。
