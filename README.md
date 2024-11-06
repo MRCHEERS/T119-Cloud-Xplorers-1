@@ -123,8 +123,8 @@ docker run -d -p 3000:3000 cathay-travel-ai
 
 ## 联系方式
 
-- 项目维护者：[Your Name]
-- 邮箱：[Your Email]
+- 项目维护者：Yuxiong Wang
+- 邮箱：leo_wang@hack24.cathaypacific.com 
 
 ## 致谢
 
