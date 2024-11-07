@@ -50,21 +50,6 @@ cp .env.example .env
 docker-compose up -d
 ```
 
-## 项目结构
-
-```
-T119-Cloud-Xplorers/
-├── docker/                # Docker 相关配置
-├── src/                   # 源代码
-│   ├── models/           # 模型定义
-│   ├── services/         # 业务服务
-│   └── utils/            # 工具函数
-├── data/                 # 数据文件
-├── configs/              # 配置文件
-├── scripts/              # 脚本文件
-└── docs/                 # 文档
-```
-
 ## 模型训练
 
 ### ChatGLM 微调
@@ -123,8 +108,8 @@ docker run -d -p 3000:3000 cathay-travel-ai
 
 ## 联系方式
 
-- 项目维护者：[Your Name]
-- 邮箱：[Your Email]
+- 项目维护者：Yuxiong Wang
+- 邮箱：leo_wang@hack24.cathaypacific.com 
 
 ## 致谢
 
