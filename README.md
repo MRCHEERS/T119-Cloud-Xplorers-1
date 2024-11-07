@@ -50,20 +50,7 @@ cp .env.example .env
 docker-compose up -d
 ```
 
-## 项目结构
 
-```
-T119-Cloud-Xplorers/
-├── docker/                # Docker 相关配置
-├── src/                   # 源代码
-│   ├── models/           # 模型定义
-│   ├── services/         # 业务服务
-│   └── utils/            # 工具函数
-├── data/                 # 数据文件
-├── configs/              # 配置文件
-├── scripts/              # 脚本文件
-└── docs/                 # 文档
-```
 
 ## 模型训练
 
